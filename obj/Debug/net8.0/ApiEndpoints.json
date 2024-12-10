@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "AwardsController",
+    "Method": "GetAwardIntervals",
+    "RelativePath": "api/Awards/intervals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

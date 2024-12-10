@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GoldenRaspberryAwardsAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Awards/intervals": {
+      "get": {
+        "tags": [
+          "Awards"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
